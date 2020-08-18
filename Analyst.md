@@ -17,7 +17,7 @@ information, and creates analyses and visualizations that connect information in
 | 6 | Senior | [D6 - Analyst 6](#d6---analyst-6) |
 | 7 | Senior | [D7 - Analyst 7](#d7---analyst-7) |
 
-## D1 - Analyst 1
+## A1 - Analyst 1
 
 ![Analyst 1](/charts/developer-1.png)
 
@@ -27,7 +27,7 @@ information, and creates analyses and visualizations that connect information in
 * **Follows**: follows the team processes, delivering a consistent flow of visualizations and reports to production
 * **Subsystem**: makes an impact on one or more areas of business focus or teams
 
-## D2 - Analyst 2
+## A2 - Analyst 2
 
 ![Analyst 2](/charts/developer-2.png)
 
@@ -37,7 +37,7 @@ information, and creates analyses and visualizations that connect information in
 * **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
 * **Subsystem**: makes an impact on one or more areas of business focus or teams
 
-## D3 - Analyst 3
+## A3 - Analyst 3
 
 ![Analyst 3](/charts/developer-3.png)
 
@@ -47,7 +47,7 @@ information, and creates analyses and visualizations that connect information in
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D4 - Analyst 4
+## A4 - Analyst 4
 
 ![Analyst 4](/charts/developer-4.png)
 
@@ -57,7 +57,7 @@ information, and creates analyses and visualizations that connect information in
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D5 - Analyst 5
+## A5 - Analyst 5
 
 ![Analyst 5](/charts/developer-5.png)
 
@@ -67,7 +67,7 @@ information, and creates analyses and visualizations that connect information in
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## D6 - Analyst 6
+## A6 - Analyst 6
 
 ![Analyst 6](/charts/developer-6.png)
 
@@ -77,7 +77,7 @@ information, and creates analyses and visualizations that connect information in
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Company**: makes an impact on the entire organization
 
-## D7 - Analyst 7
+## A7 - Analyst 7
 
 ![Analyst 7](/charts/developer-7.png)
 
