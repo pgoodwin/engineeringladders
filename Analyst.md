@@ -9,13 +9,13 @@ information, and creates analyses and visualizations that connect information in
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
-| 1 | Junior | [D1 - Analyst 1](#d1---analyst-1) |
-| 2 | Junior | [D2 - Analyst 2](#d2---analyst-2) |
-| 3 | Mid | [D3 - Analyst 3](#d3---analyst-3) |
-| 4 | Mid | [D4 - Analyst 4](#d4---analyst-4) |
-| 5 | Mid | [D5 - Analyst 5](#d5---analyst-5) |
-| 6 | Senior | [D6 - Analyst 6](#d6---analyst-6) |
-| 7 | Senior | [D7 - Analyst 7](#d7---analyst-7) |
+| 1 | Junior | [A1 - Analyst 1](#d1---analyst-1) |
+| 2 | Junior | [A2 - Analyst 2](#d2---analyst-2) |
+| 3 | Mid | [A3 - Analyst 3](#d3---analyst-3) |
+| 4 | Mid | [A4 - Analyst 4](#d4---analyst-4) |
+| 5 | Mid | [A5 - Analyst 5](#d5---analyst-5) |
+| 6 | Senior | [A6 - Analyst 6](#d6---analyst-6) |
+| 7 | Senior | [A7 - Analyst 7](#d7---analyst-7) |
 
 ## A1 - Analyst 1
 
