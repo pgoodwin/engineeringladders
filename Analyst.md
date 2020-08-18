@@ -1,6 +1,6 @@
 # Analyst
 
-Role: An analyst takes raw data and synthesizes it into information. With more experience and seniority, and Analyst goes beyond
+Role: An analyst takes raw data and synthesizes it into information. With more experience and seniority, an Analyst goes beyond
 information, and creates analyses and visualizations that connect information into knowledge, insight and finally wisdom.
 
 ![Data_to_Wisdom](/images/Data-Wisdom-768x250.jpg)
