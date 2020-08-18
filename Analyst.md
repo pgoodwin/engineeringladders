@@ -4,7 +4,7 @@ Role
 
 ![Data_to_Wisdom](/images/Data-Wisdom-768x250.jpg)
 
-![Credit https://www.theifactory.com/news/gaining-wisdom-from-data/](https://www.theifactory.com/news/gaining-wisdom-from-data/)
+[Credit https://www.theifactory.com/news/gaining-wisdom-from-data/](https://www.theifactory.com/news/gaining-wisdom-from-data/)
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
