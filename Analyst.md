@@ -4,15 +4,16 @@ Role: An analyst takes raw data and synthesizes it into information. With more e
 information, and creates analyses and visualizations that connect information into knowledge, insight and finally wisdom.
 
 ![Data_to_Wisdom](/images/Data-Wisdom-768x250.jpg)
+
 [Credit https://www.theifactory.com/news/gaining-wisdom-from-data/](https://www.theifactory.com/news/gaining-wisdom-from-data/)
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
 | 1 | Junior | [D1 - Analyst 1](#d1---analyst-1) |
 | 2 | Junior | [D2 - Analyst 2](#d2---analyst-2) |
-| 3 | Junior | [D3 - Analyst 3](#d3---analyst-3) |
-| 4 | Senior | [D4 - Analyst 4](#d4---analyst-4) |
-| 5 | Senior | [D5 - Analyst 5](#d5---analyst-5) |
+| 3 | Mid | [D3 - Analyst 3](#d3---analyst-3) |
+| 4 | Mid | [D4 - Analyst 4](#d4---analyst-4) |
+| 5 | Mid | [D5 - Analyst 5](#d5---analyst-5) |
 | 6 | Senior | [D6 - Analyst 6](#d6---analyst-6) |
 | 7 | Senior | [D7 - Analyst 7](#d7---analyst-7) |
 
