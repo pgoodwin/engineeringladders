@@ -7,12 +7,11 @@ The framework relies heavily in radar charts to show visually the different pers
 
 ![Template Chart](charts/template.png)
 
-# Career Ladders
+# Engineering Career Ladders
 
-The framework has 5 different ladders:
+The framework has 4 different ladders:
 
 * [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
-* [**Analyst**](Analyst.md): role also known as data analyst, takes raw data and synthesizes it into information and visualization. 
 * [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
 * [**Technical Program Manager**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that expand multiple teams
 * [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
@@ -88,6 +87,84 @@ Keep reading to better understand each level.
 4. **Company**: makes an impact on the whole tech organization
 5. **Community**: makes an impact on the tech community
 
+# Analyst Career Ladders
+
+The framework has one ladder:
+
+* [**Analyst**](Analyst.md): role also known as data analyst, takes raw data and synthesizes it into information and visualization. 
+
+If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
+
+| Level | Seniority | [Analyst](Analyst.md) | 
+| :---: | :---: | :---: |
+| 1 | Junior | [A1](Analyst.md#a1---analyst-1) |
+| 2 | Junior | [A2](Analyst.md#a2---analyst-2) |
+| 3 | Mid    | [A3](Analyst.md#a3---analyst-3) |
+| 4 | Mid    | [A4](Analyst.md#a4---analyst-4) |
+| 5 | Mid    | [A5](Analyst.md#a5---analyst-5) |
+| 6 | Senior | [A6](Analyst.md#a6---analyst-6) |
+| 7 | Senior | [A7](Analyst.md#a7---analyst-7) |
+
+(click on position name for more details)
+
+# Axes
+
+The chart shown above has the following 5 axes:
+* **Technology**: knowledge of the tech stack and tools
+* **Synthesis**: ability to synthesize information into valuable insight and wisdom
+* **People**: relationship with the team(s)
+* **Process**: level of engagement with the development process
+* **Influence**: scope of influence of the position
+
+The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
+
+Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). 
+For example, someone that *evangelizes* technology, *specializes* and *adopts* it as well.
+
+Keep reading to better understand each level.
+
+# Levels
+
+## Technology
+
+1. **Adopts**: actively learns and adopts the technology and tools defined by the team
+2. **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+3. **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
+4. **Masters**: has very deep knowledge about the whole technology stack of the system
+5. **Creates**: designs and creates new technologies that are widely used either by internal or external teams
+
+## Synthesis
+
+1. **Data**: successfully manipulates data from various sources into processable formats
+2. **Information**: can process raw data into basic information and metrics
+3. **Knowledge**: links disparate information into knowledge about the domain as a whole
+4. **Insights**: connects knowledge by uncovering meaningful relationships between disparate parts of the domain 
+5. **Wisdom**: can tell the whole story, simply and clearly, to produce "aha!" moments for the company
+
+## People
+
+1. **Learns**: quickly learns from others and consistently steps up when it is required
+2. **Supports**: proactively supports other team members and helps them to be successful
+3. **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
+4. **Coordinates**: coordinates team members providing effective feedback and moderating discussions
+5. **Manages**: manages the team members' career, expectations, performance and level of happiness
+
+## Process
+
+1. **Follows**: follows the team processes, delivering a consistent flow of features to production
+2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
+3. **Challenges**: challenges the team processes, looking for ways to improve them
+4. **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
+5. **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+
+## Influence
+
+1. **Subsystem**: makes an impact on one or more subsystems
+2. **Team**: makes an impact on the whole team, not just on specific parts of it
+3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
+4. **Company**: makes an impact on the whole tech organization
+5. **Community**: makes an impact on the tech community
+
 # FAQs
 
 **What if some of the people don't meet all the points?**
@@ -126,6 +203,7 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 # Other Pages
 
 * [**Developer**](Developer.md)
+* [**Analyst**](Analyst.md)
 * [**Tech Lead**](TechLead.md)
 * [**Technical Program Manager**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
