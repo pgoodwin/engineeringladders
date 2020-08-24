@@ -87,6 +87,8 @@ Keep reading to better understand each level.
 4. **Company**: makes an impact on the whole tech organization
 5. **Community**: makes an impact on the tech community
 
+![Analyst Chart](charts/anaylyst.png)
+
 # Analyst Career Ladders
 
 The framework has one ladder:
