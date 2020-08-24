@@ -1,8 +1,7 @@
 # Introduction
 
-This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder.
-
-Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. Please use the information provided as a baseline and feel free adjust it to your needs.
+This framework allows technical managers to have meaningful conversations with their direct reports around the expectations 
+of each position and how to plan for the next level in their career ladder.
 
 The framework relies heavily in radar charts to show visually the different perspectives and expectations of a given position:
 
@@ -10,9 +9,10 @@ The framework relies heavily in radar charts to show visually the different pers
 
 # Career Ladders
 
-The framework has 4 different ladders:
+The framework has 5 different ladders:
 
 * [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
+* [**Analyst**](Analyst.md): role also known as data analyst, takes raw data and synthesizes it into information and visualization. 
 * [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
 * [**Technical Program Manager**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that expand multiple teams
 * [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
@@ -21,13 +21,13 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 
 | Level | Seniority | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
-| 1 | Junior | [D1](Developer.md#d1---developer-1) | | | |
-| 2 | Junior | [D2](Developer.md#d2---developer-2) | | | |
-| 3 | Junior | [D3](Developer.md#d3---developer-3) | | | |
-| 4 | Senior | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
-| 5 | Senior | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Senior | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Senior | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| 1 | Junior | [D1](Developer.md#d1---developer-1) | [A1](Analyst.md#a1---analyst-1) | | | |
+| 2 | Junior | [D2](Developer.md#d2---developer-2) | [A2](Analyst.md#a2---analyst-2) | | | |
+| 3 | Mid    | [D3](Developer.md#d3---developer-3) | [A3](Analyst.md#a3---analyst-3) | | | |
+| 4 | Mid    | [D4](Developer.md#d4---developer-4) | [A4](Analyst.md#a4---analyst-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
+| 5 | Mid    | [D5](Developer.md#d5---developer-5) | [A5](Analyst.md#a5---analyst-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
+| 6 | Senior | [D6](Developer.md#d6---developer-6) | [A6](Analyst.md#a6---analyst-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
+| 7 | Senior | [D7](Developer.md#d7---developer-7) | [A7](Analyst.md#a7---analyst-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (click on position name for more details)
 
