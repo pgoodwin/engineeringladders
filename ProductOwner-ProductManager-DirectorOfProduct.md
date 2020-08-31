@@ -17,7 +17,7 @@ The following is a non-exhaustive list that exemplifies some of the different re
 | :--- | :--- | :--- |
 | Delivery process | Customer and Market Needs | Career Planning, Promotions and Coaching |
 | Project management | Customer relationship management | People management |
-| Project management | Customer relationship management | People management |
+|  | Customer relationship management | People management |
 
 The last point on each role highlights the fact that the lists are not mutually exclussive, 
 and therefore many of the points from one side are also important on the other side too. 
