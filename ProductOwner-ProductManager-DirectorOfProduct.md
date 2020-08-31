@@ -1,4 +1,4 @@
-# Tech Lead vs Engineering Manager
+# Product Owner vs Product Manager vs Director
 
 It is very common for companies to mix the Product Owner and Product Manager roles. Although both roles have some overlap, 
 their focus is different: the Product Owner is in charge of delivering features and functionality suites for a single *Product* 
