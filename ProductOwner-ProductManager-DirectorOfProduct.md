@@ -17,7 +17,11 @@ The following is a non-exhaustive list that exemplifies some of the different re
 | :--- | :--- | :--- |
 | Delivery process | Customer and Market Needs | Career Planning, Promotions and Coaching |
 | Project management | Customer relationship management | People management |
-|  | Customer relationship management | People management |
+| Tactical with operations | Strategic with product vision | Strategic with product vision and people goals/visions |
+| Helps the project grow | Helps the product grow | Helps the team members grow professionally |
+| Owns and manages product backlog | Owns and manages product roadmap | Owns and manages cross-functional roadmap |
+| Turn customer needs into backlog stories | Collect customer needs and feedback | Use customer needs to influence company strategy |
+| Communicates back to dev team | Communicates with customers | Communicates cross-functionally with long term goals |
 
 The last point on each role highlights the fact that the lists are not mutually exclussive, 
 and therefore many of the points from one side are also important on the other side too. 
