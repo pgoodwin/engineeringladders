@@ -2,15 +2,15 @@
 
 Role also known as programmer or software engineer, requires a deep level of technical expertise.
 
-| Level | Seniority | Position |
-| :---: | :---: | :---: |
-| 1 | Junior | [D1 - Developer 1](#d1---developer-1) |
-| 2 | Junior | [D2 - Developer 2](#d2---developer-2) |
-| 3 | Mid    | [D3 - Developer 3](#d3---developer-3) |
-| 4 | Mid    | [D4 - Developer 4](#d4---developer-4) |
-| 5 | Mid    | [D5 - Developer 5](#d5---developer-5) |
-| 6 | Senior | [D6 - Developer 6](#d6---developer-6) |
-| 7 | Senior | [D7 - Developer 7](#d7---developer-7) |
+| Level | Seniority | Position | Title
+| :---: | :---: | :---: | :---: |
+| 1 | Junior | [D1 - Developer 1](#d1---developer-1) | Junior SW Engineer
+| 2 | Junior | [D2 - Developer 2](#d2---developer-2) | SW Engineer
+| 3 | Mid    | [D3 - Developer 3](#d3---developer-3) | Senior SW Engineer
+| 4 | Mid    | [D4 - Developer 4](#d4---developer-4) | Staff SW Engineer
+| 5 | Mid    | [D5 - Developer 5](#d5---developer-5) | Sr. Staff SW Engineer
+| 6 | Senior | [D6 - Developer 6](#d6---developer-6) | Principal SW Engineer
+| 7 | Senior | [D7 - Developer 7](#d7---developer-7) | Distinguished SW Engineer
 
 ## D1 - Developer 1
 
